@@ -3,7 +3,7 @@ Misc Google App Engine snippets.
 addslash.py
 ===========
 
-Simple add-slash-at-end redictor, usefull to get /directory to redirect to /directory/
+Simple add-slash-at-end redirector, usefull to get /directory to redirect to /directory/
 
 	handlers:
 	- url: /directory
