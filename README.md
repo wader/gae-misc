@@ -41,4 +41,4 @@ Example:
 
 Requesting `/api/1/test.jsonp?cb=somecb&reply=two&times=2` will return:
 
-        somecb(["two", "two"]);
+	somecb(["two", "two"]);
